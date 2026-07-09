@@ -1,4 +1,4 @@
-print("--- Part 1: Lists in Python ---")
+print("--- Lists in Python ---")
 # Lists are built-in data types that store a sequence of values.
 # They are mutable (can be changed after creation).
 
