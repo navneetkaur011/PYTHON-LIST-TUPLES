@@ -12,16 +12,16 @@ Every file in this directory represents a key milestone in learning foundational
 
 * **01_List.py** – Exploring Python lists, indexing, slicing, and handling mutable data sequences.
 * **02_List_methods.py** – Practicing essential built-in list methods such as append, sort, reverse, and pop.
-
+* **03_Tuples.py** – Understanding immutable sequences, tracking constants, utilizing core methods (`.index()`, `.count()`), and experimenting with advanced unpacking mechanics.
+* **04_Questions.py** – A dedicated collection of solved practice problems and logic-building interactive exercises utilizing dynamic terminal inputs (`input()`).
 ---
 
 ## 🎯 Next Milestones (Within This Repository)
 
-The next phase of my learning journey will continue to expand inside this repository, focusing on final data collections and structures:
+The next phase of my learning journey will be tracked in a separate repository, focusing on key-value collections and unique data structures:
 
-* **Tuples:** Dive deeper into tracking non-modifiable data sets, tracking indices, and counting sequence elements.
-* **Practice Sets:** Implementing practical, terminal-driven interactive challenges to solve multi-step collection logic problems.
-
+* **Dictionaries:** Learning how to store data sets sequentially using key-value pairs, modifying entries, and utilizing dictionary methods.
+* **Sets:** Understanding unordered, unindexed, and unique collections of elements while mastering set operations.
 ---
 
 ## 🛠️ How to Run the Files
